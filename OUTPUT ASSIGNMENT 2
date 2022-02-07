@@ -1,0 +1,181 @@
+*********************************************
+Personal Information Security System 
+Please fill in this form.
+*********************************************
+*********************************************
+Name :
+Nur Syazwani
+Age :
+27
+Phone number :
+0136567342
+Email address :
+nursyazwani@gmail.com
+Password :
+563426
+*********************************************
+Personal Information Complete
+*********************************************
+*********************************************
+Register
+Please fill in this form to create an account
+*********************************************
+*********************************************
+Email
+Enter Email
+nursyazwani@gmail.com
+*********************************************
+Enter your account password: 345678
+Your password is wrong! You have 2 chance.
+Enter your account password: 567833
+Your password is wrong! You have 1 chance.
+Enter your account password: 563426
+Your password is correct.
+*********************************************
+*********************************************
+Email
+Enter Email
+nursyazwani@gmail.com
+*********************************************
+Enter your account password: 729375
+Your password is wrong! You have 2 chance.
+Enter your account password: 767622
+Your password is wrong! You have 1 chance.
+Enter your account password: 233455
+Your password is wrong! You have 0 chance.
+Sorry, you need to wait 5 minutes to key in your password again!By creating an account you agree to our 
+Register
+Already have an account? Sign in	
+*********************************************
+*********************************************
+*********************************************
+Validation
+Please submit this form
+*********************************************
+Username
+Enter Username:
+Syazwani
+Password
+Enter password :
+563426
+Keyword
+Enter Keyword :
+894945
+Submit
+*********************************************
+*********************************************
+Keyword and Identify
+*********************************************
+Enter your Keywords : 325875
+*****
+Invalid Keywords.
+Your keywords is wrong! You have only 2 chance. Please enter again: 
+894945
+Repeat Keywords 
+Enter keywords :
+894945
+*****
+Your keywords is correct.
+Identify.
+*********************************************
+Warning Text 
+*********************************************
+Phone number :
+0135656347
+Email address :
+nursyazwani@gmail.com
+Warning Text : 
+Warning! Third-party wants to intrude on your data. Please be alert. Please click 'Yes' to block the action and protect your data. Stop it now!
+Yes
+Block and report.
+*********************************************
+*********************************************
+Warning Text 
+*********************************************
+Phone number :
+0135656347
+Email address :
+nursyazwani@gmail.com
+Warning Text : 
+Warning! Third-party wants to intrude on your data. Please be alert. Please click 'Yes' to block the action and protect your data. Stop it now!
+No
+Everything will be at your own risk.
+*********************************************
+**********
+Threat.
+**********
+Enter the number of x:
+1
+Hijack your usernames and passwords :
+P1 = 15
+Total amount threat = 461
+Total amount probability = 15
+
+**********
+Threat.
+**********
+Enter the number of x:
+2
+Steal your money and open credit card and bank accounts in your name :
+P2= 14
+Total amount threat = 461
+Total amount probability = 14
+
+**********
+Threat.
+**********
+Enter the number of x:
+3
+Ruin your credit :
+P3 = 10
+Total amount threat = 461
+Total amount probability = 10
+
+**********
+Threat.
+**********
+Enter the number of x:
+4
+Request new account Personal Identification Numbers (PINs) or additional credit cards :
+P4 = 8
+Total amount threat = 461
+Total amount probability = 8
+
+**********
+Threat.
+**********
+Enter the number of x:
+5
+Use and abuse your Social Security number :
+P5 = 14
+Total amount threat = 461
+Total amount probability = 14
+
+**********
+Threat.
+**********
+Enter the number of x:
+6
+Sell your information to other parties who will use it for illicit or illegal purposes :
+P6 = 15
+Total amount threat = 461
+Total amount probability = 15
+
+****************
+Vulnerability
+****************
+Broken authentication : 
+P1 = 15
+Cross-Site Scripting :
+P2 = 14
+Cross-Site Request Forgery :
+P3 = 10
+Security Misconfiguration :
+P4 = 8
+Total amount = 296
+Total amount = 73
+****************
+Risk
+****************
+Risk = 6x4x149
+Risk = 3576
